@@ -1,0 +1,10 @@
+/* Estilos simples para ProductSlider */
+.slider {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.slider img {
+  border-radius: 10px;
+  margin: 10px;
+}

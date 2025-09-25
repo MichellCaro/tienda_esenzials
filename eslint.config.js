@@ -1,0 +1,1 @@
+export default [{files:["**/*.js","**/*.jsx"],languageOptions:{ecmaVersion:"latest",sourceType:"module",globals:{browser:true,node:true}},rules:{"no-unused-vars":"warn","no-undef":"error","react/react-in-jsx-scope":"off"}}];

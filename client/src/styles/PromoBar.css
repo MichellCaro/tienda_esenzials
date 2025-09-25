@@ -1,0 +1,13 @@
+.promo-bar {
+    @apply bg-yellow-200 text-gray-800 text-center font-bold py-2 px-4 font-sans;
+    transition: opacity 0.5s ease-in-out;
+    opacity: 1;
+}
+
+.fade-in {
+    opacity: 1;
+}
+
+.fade-out {
+    opacity: 0;
+}
